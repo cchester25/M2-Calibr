@@ -3,5 +3,5 @@ A targetless spatiotemporal calibration framework based on multi-output Gaussian
 
 Downstream application effect diagram based on calibration results：
 <div align="center">
-  <img src="figs/framework.png" width="600">
+  <img src="Coloring effect.pdf" width="600">
 </div>
